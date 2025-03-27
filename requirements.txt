@@ -1,0 +1,14 @@
+langgraph
+langsmith
+langchain
+langchain_groq
+langchain_community
+arxiv
+wikipedia
+cassio
+tiktoken
+langchainhub
+langchain_huggingface
+python-dotenv
+streamlit
+pypdf

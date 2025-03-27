@@ -43,6 +43,7 @@ ASTRA_DB_APPLICATION_TOKEN=your_astra_db_token
 ASTRA_DB_ID=your_astra_db_id
 LANGCHAIN_API_KEY=your_langchain_api_key
 GROQ_API_KEY=your_groq_api_key
+HF_TOKEN=your_huggingface_token
 ```
 
 ### Run the Application

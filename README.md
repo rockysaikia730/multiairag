@@ -65,9 +65,6 @@ streamlit run app.py
 - **Wikipedia & arXiv APIs**: For external knowledge sources.
 - **DeepSeek & Groq LLMs**: For natural language understanding and generation.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contributions
 Feel free to contribute by submitting pull requests or reporting issues.
 
